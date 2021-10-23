@@ -1,7 +1,7 @@
 ---
 title: Example Author
 draft: false
-role: Example Role
+role: Web Developer
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: wohu1363195380@outlook.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
