@@ -6,9 +6,8 @@ experiences:
     organization:
       name: 腾讯
       url: 
-    dates: '2021.7 - 2021.9'
+    dates: '2021.07 - 2021.09 & 2022.03 - 2022.05'
     location: 深圳
-
 weight: 3
 widget:
   handler: experiences

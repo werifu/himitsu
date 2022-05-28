@@ -4,3 +4,7 @@
 主题使用Eureka，很符合我审美
 https://www.wangchucheng.com/zh/docs/hugo-eureka/homepage-configuration
 静态资源在assets下（assets也是资源的根目录）
+## 使用
+1. clone
+2. npm i
+3. hugo

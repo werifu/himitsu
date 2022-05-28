@@ -2,7 +2,7 @@
 title: Werifu
 draft: false
 role: Web Developer
-avatar: images/icon.png
+avatar: https://s3.bmp.ovh/imgs/2022/05/28/7745084c66c1e1de.png
 bio: 希望理性与温柔的光辉能照耀世界
 organization:
   name: UniqueStudio Web

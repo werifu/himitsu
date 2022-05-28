@@ -11,7 +11,7 @@ series:
   - CMU15-445
 date: '2021-10-23'
 lastmod: '2021-10-23'
-featuredImage: 
+featuredImage: images/cmu-db.jpg
 draft: false
 ---
 ## 介绍
