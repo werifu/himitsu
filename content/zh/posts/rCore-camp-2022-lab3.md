@@ -1,6 +1,6 @@
 ---
-title: RCore Camp 2022 Lab3
-description:
+title: rCore Camp 2022 Lab3 记录
+description: 实现 spawn 、 stride 算法进程调度，以及进程管理的笔记
 toc: true
 authors:
   - werifu

@@ -1,6 +1,6 @@
 ---
-title: RCore Camp 2022 Lab2
-description:
+title: rCore Camp 2022 Lab2 记录
+description: 实现 mmap 和 mumap，以及对页表机制的笔记
 toc: true
 authors:
   - werifu
