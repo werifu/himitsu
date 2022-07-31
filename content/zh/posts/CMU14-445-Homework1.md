@@ -12,7 +12,7 @@ series:
 date: '2021-10-23'
 lastmod: '2021-10-23'
 featuredImage: images/cmu-db.jpg
-draft: false
+draft: true
 ---
 ## 介绍
 CMU 2020秋的数据库作业1，任务是在sqlite3里做一些高级查询<br>
