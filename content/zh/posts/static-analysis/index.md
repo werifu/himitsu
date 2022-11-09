@@ -1,5 +1,5 @@
 ---
-title: "Note: Data Flow Analysis"
+title: "Note: Data Flow Analysis - Applications"
 description: NJU 李樾 & 谭添《软件分析》笔记 1
 toc: true
 authors:
