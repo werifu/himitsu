@@ -6,7 +6,9 @@ authors:
   - werifu
 tags:
   - Static Analysis
-categories: []
+  -  Note
+categories:
+  - NJU 静态分析
 series: []
 date: 2022-11-08T22:26:17+08:00
 lastmod: 2022-11-08T22:26:17+08:00
