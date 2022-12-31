@@ -13,4 +13,6 @@ featuredVideo:
 featuredImage:
 ---
 
+![](20221231225829.png)
 
+# 一份年终总结
