@@ -1,6 +1,6 @@
 ---
 title: 写在2022年末
-description: 终于告别了这坎坷的一年
+description: 终于告别了这坎坷的一年，有机会公开发发牢骚
 date: 2022-12-31T20:29:34+08:00
 authors:
   - werifu
