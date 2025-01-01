@@ -4,6 +4,8 @@ description: 2023 年终总结：世界线发生了变动
 date: 2023-12-31T01:20:01-05:00
 image: touhou.jpeg
 math: 
+categories:
+  - 年终总结
 license: 
 hidden: false
 comments: true
