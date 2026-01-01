@@ -2,7 +2,8 @@ baseURL: /
 title: Werifu Himitsu
 theme: github.com/CaiJimmy/hugo-theme-stack/v3
 
-paginate: 6
+pagination:
+    pagerSize: 6
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -41,7 +42,7 @@ params:
 
     sidebar:
         emoji: 🐅
-        subtitle: Web Developer
+        subtitle: PhD Student
         avatar:
             enabled: true
             local: false
@@ -220,7 +221,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
