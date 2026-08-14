@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://werifu.github.io/blog/
 title: Werifu Himitsu
 theme: github.com/CaiJimmy/hugo-theme-stack/v3
 
@@ -68,7 +68,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: werifu/werifu.github.io
+            repo: werifu/blog
             issueTerm: pathname
             label:
 
